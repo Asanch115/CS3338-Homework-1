@@ -1,3 +1,24 @@
+commit 51b4c143292365c6e660dd2f1908ffdf512f3c38
+Merge: 89d2c1f ffffb08
+Author: Asanch115 <sanchezal2006@gmail.com>
+Date:   Wed Sep 16 15:31:46 2026 -0700
+
+    Merge branch 'main' of https://github.com/Asanch115/CS3338-Homework-1
+
+commit 89d2c1f3f865743187546298bfd251d6920087e1
+Author: Asanch115 <sanchezal2006@gmail.com>
+Date:   Wed Sep 16 15:27:29 2026 -0700
+
+    Create git_log.txt
+    
+    add git verification log
+
+commit ffffb08186f0a3baedb6abaeb9d930d0adaa2276
+Author: Tiffany P <tphan77@calstatela.edu>
+Date:   Wed Sep 16 12:32:41 2026 -0700
+
+    Update index.html
+
 commit 107ae47b997ffea6b68c0ba6d05810b0da116541
 Merge: f37cdce eb3738d
 Author: Asanch115 <sanchezal2006@gmail.com>
